@@ -55,7 +55,7 @@ body {
 }
 .image-container {
     margin-top: 120px; /* Adjust distance from the navbar */
-    margin-left: 300px; /* Adjust distance from the left */
+    margin-left: 250px; /* Adjust distance from the left */
     display: inline-block; /* To allow margin-left to take effect */
 }
 
