@@ -85,3 +85,28 @@ body {
     position: relative;
     bottom: 80px;
 }
+
+.hey{
+  font-size: 50px;
+  position: relative;
+  left: 750px;
+  color: black;
+}
+.hi{
+  font-size: 50px;
+  position: relative;
+  left: 770px;
+  color: black;
+}
+.heya{
+  font-size: 50px;
+  position: relative;
+  left:790px ;
+  color: black;
+}
+.heyaaa{
+  font-size: 50px;
+  position: relative;
+  left:810px;
+  color: black;
+}
