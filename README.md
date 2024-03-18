@@ -1,1 +1,1 @@
-# vidarya1.github.io
+# vidarya.github.io
